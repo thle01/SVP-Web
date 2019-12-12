@@ -1,0 +1,24 @@
+{
+  "name": "svp-web",
+  "version": "1.0.0",
+  "description": "Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thle01/SVP-Web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thle01/SVP-Web/issues"
+  },
+  "homepage": "https://github.com/thle01/SVP-Web#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
