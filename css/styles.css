@@ -46,3 +46,21 @@ body {
     background-color: #901CAD;
     color: white; }
   
+    
+aside{
+
+  width: 50%;
+  min-width: 300px;
+  max-width: 500px;
+
+}
+
+.date-block{
+  text-align: center;
+  background: teal;
+  font-family: "Helvetica";
+  color: #EEE;
+  font-size: 18pt;
+  padding: 10px;
+  
+}
